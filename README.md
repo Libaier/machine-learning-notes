@@ -27,7 +27,7 @@
 
 ###有监督学习
 
-* 朴素贝叶斯
+* [朴素贝叶斯](https://www.zybuluo.com/Libaier/note/444055)
 
 * 决策树
 
