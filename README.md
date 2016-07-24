@@ -29,9 +29,9 @@
 
 * [朴素贝叶斯](https://www.zybuluo.com/Libaier/note/444055)
 
-* [决策树](https://www.zybuluo.com/Libaier/note/444998)
+* [决策树](https://www.zybuluo.com/Libaier/note/446630)
 
-* 感知机
+* [感知机](https://www.zybuluo.com/Libaier/note/444998)
 
 * logistic回归
 
