@@ -35,7 +35,7 @@
 
 * [线性回归](https://www.zybuluo.com/Libaier/note/446632)
 
-* logistic回归
+* [logistic回归](https://www.zybuluo.com/Libaier/note/446659)
 
 * SVM
 
