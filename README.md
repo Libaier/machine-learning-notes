@@ -33,6 +33,8 @@
 
 * [感知机](https://www.zybuluo.com/Libaier/note/444998)
 
+* [线性回归](https://www.zybuluo.com/Libaier/note/446632)
+
 * logistic回归
 
 * SVM
