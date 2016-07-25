@@ -37,7 +37,7 @@
 
 * [logistic回归](https://www.zybuluo.com/Libaier/note/446659)
 
-* SVM
+* [SVM](https://www.zybuluo.com/Libaier/note/446949)
 
 * 神经网络
 
